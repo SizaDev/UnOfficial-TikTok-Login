@@ -1,4 +1,4 @@
-# TikTok Authentication Script (Unofficial) 
+# TikTok Authentication Script (Unofficial)
 
 ⚠️ **Disclaimer:** This script does **NOT** use official TikTok APIs. It is intended for educational or testing purposes only. Use responsibly.
 
